@@ -1,2 +1,4 @@
 # AutoGen
-early-stage tests with Microsoft AutoGen
+[Microsoft AutoGen](https://github.com/microsoft/autogen)
+
+> ⚠️ Work in progress
